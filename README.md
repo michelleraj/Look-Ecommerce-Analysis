@@ -15,6 +15,17 @@ One-time buyers dominate: Nearly 9 out of 10 customers churn after their first o
 
 Growth opportunity: Even a modest uplift in repeat purchase rate (e.g., from ~12% → 20%) would translate into thousands of extra orders without acquiring new customers.
 
+### 📊 Conversion Funnel Analysis
+
+<img width="899" height="691" alt="Screenshot 2025-10-13 at 2 52 15 PM" src="https://github.com/user-attachments/assets/e5564471-64b9-4415-9f7e-77333cc860e8" />
+
+- **100% Session Engagement**: Every visitor views products
+- **63.3% Cart Addition Rate**: Strong purchase intent from viewers  
+- **42.1% Checkout Completion**: Major drop-off at final step
+- **57.9% Cart Abandonment**: 232,741 lost potential orders
+- **26.6% Overall Conversion**: 1 in 4 sessions result in purchase
+- **Priority Fix**: Guest checkout & abandoned cart emails
+
 ### 🚚 Shipping & Delivery Efficiency Insights
 #### How efficient is supply chain?
 <img width="788" height="554" alt="Screenshot 2025-10-01 at 10 39 32 PM" src="https://github.com/user-attachments/assets/def88350-5877-401f-97c0-f5b5b8f624fd" />
@@ -89,5 +100,6 @@ Adwords is the second-largest driver
 - **Guest Checkout = Capture Revenue Now**  
   - Prevents losing sales from high-intent anonymous visitors.  
 - **Membership System = Build Retention Later**  
-  - Encourages guest buyers to convert into loyal, trackable customers.  
+  - Encourages guest buyers to convert into loyal, trackable customers.
+
 
