@@ -2,7 +2,8 @@
 <img width="1331" height="1141" alt="image" src="https://github.com/user-attachments/assets/635f977c-3d05-4548-a1ca-51beb9a9f938" />
 
 
-### 💡 Cohort Analysis 
+### 💡 Customer Behavior & Retention - Cohort Analysis 
+#### How loyal are our customers? What percentage make repeat purchases?
 
 <img width="751" height="397" alt="Screenshot 2025-10-01 at 10 30 54 PM" src="https://github.com/user-attachments/assets/1f858d8e-b87f-412a-968c-01ab661b5e5a" />
 
@@ -15,7 +16,7 @@ One-time buyers dominate: Nearly 9 out of 10 customers churn after their first o
 Growth opportunity: Even a modest uplift in repeat purchase rate (e.g., from ~12% → 20%) would translate into thousands of extra orders without acquiring new customers.
 
 ### 🚚 Shipping & Delivery Efficiency Insights
-
+#### How efficient is supply chain?
 <img width="788" height="554" alt="Screenshot 2025-10-01 at 10 39 32 PM" src="https://github.com/user-attachments/assets/def88350-5877-401f-97c0-f5b5b8f624fd" />
 
 
@@ -25,7 +26,8 @@ The largest chunk of time is in transit (≈2 days) rather than internal process
 
 With 31k completed orders, this looks like a stable operational baseline rather than an outlier.
 
-### 📈 Where should we be investing our marketing budget?
+### 📈 Marketing Performance
+#### Where should we be investing our marketing budget?
 <img width="1222" height="563" alt="Screenshot 2025-10-01 at 10 40 58 PM" src="https://github.com/user-attachments/assets/d0c5ec9d-18ab-441d-9918-3ef32db5c55d" />
 
 Conversion rates are stable across channels (~26–27%)
